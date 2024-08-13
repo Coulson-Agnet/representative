@@ -3,7 +3,7 @@
 - Some videos and pictures are demonstrated
 - **E-mail:** dsc_personnal@qq.com
 
-## 跨平台播放器
+## 跨平台播放器（24/07/31-至今）
 
 <img src="./pic/跨平台播放器.png" alt="跨平台播放器" style="zoom: 15%;" />
 
@@ -23,7 +23,7 @@
 
 
 
-## 远程智能车控制系统（科研项目）
+## 远程智能车控制系统（科研项目，24/05/01-24/07/01）
 
 <img src="./pic/无线车控制原理.png" alt="无线车控制原理" style="zoom:33%;" />
 
