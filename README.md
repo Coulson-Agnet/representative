@@ -18,10 +18,7 @@
   - Cmake+QT+LIBVLC开发，支持跨平台，体积轻量
 
   - 更多细节，**请见视频**
-
-  - <video src="./播放器-win_x264.mp4"></video>
-  - https://github.com/Coulson-Agnet/representative/blob/main/%E6%92%AD%E6%94%BE%E5%99%A8-win_x264.mp4
-  - <video src="https://github.com/Coulson-Agnet/representative/blob/main/%E6%92%AD%E6%94%BE%E5%99%A8-win_x264.mp4"></video>
+    
   - https://github.com/user-attachments/assets/ae85663f-b645-4cc0-9d4d-cba230443798
 
 
@@ -36,7 +33,8 @@
 
   - **上位机构建**：主动问询商用SL-SR84-R42V2采集器数据，将数据解析后判断处理动作然后蓝牙转发给智能车，使用**QSerialPort类**和**多线程**同时处理接受和发送数据，减少数据延时，提高数据有效性
 
-  - 智能车选用STM32F103C8T6作为控制器，用于接受数据和响应指令
+  - 智能车选用STM32F103C8T6作为控制器，用于接受数据和响应指
+  - https://github.com/user-attachments/assets/21fcfa36-8cee-47d1-9030-8a6880efcd01
 
-  - <video src="./双串口_x264.mp4"></video>
+
 
