@@ -22,6 +22,9 @@
   - <video src="./播放器-win_x264.mp4"></video>
   - https://github.com/Coulson-Agnet/representative/blob/main/%E6%92%AD%E6%94%BE%E5%99%A8-win_x264.mp4
   - <video src="https://github.com/Coulson-Agnet/representative/blob/main/%E6%92%AD%E6%94%BE%E5%99%A8-win_x264.mp4"></video>
+  - https://github.com/user-attachments/assets/ae85663f-b645-4cc0-9d4d-cba230443798
+
+
 
 ## 远程智能车控制系统（科研项目）
 
