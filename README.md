@@ -7,7 +7,7 @@
 
 <img src="./pic/跨平台播放器.png" alt="跨平台播放器" style="zoom: 15%;" />
 
-<img src="./pic/image-20240812215541778.png" alt="image-20240812215541778" style="zoom:33%;" />
+<img src="./pic/image-20240812215541778.png" alt="image-20240812215541778" style="zoom:30%;" />
 
 - 基于**LIBVLC**和**QT**开发的跨平台视频播放器
 
