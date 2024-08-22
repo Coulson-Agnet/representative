@@ -1,7 +1,7 @@
 # Representative
 
 - Some videos and pictures are demonstrated
-- **E-mail:** dsc_personnal@qq.com
+- **E-mail:** dsc_personal@qq.com
 
 ## 跨平台播放器（24/07/31-至今）
 
